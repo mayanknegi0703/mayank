@@ -1,3 +1,3 @@
-package "apache2" do
+package "nginx" do
   action: install
 end
