@@ -1,3 +1,3 @@
 package "nginx" do
-  action :install
+  action:install
 end
